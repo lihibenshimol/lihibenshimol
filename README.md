@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lihibenshimol&label=Profile%20views&color=0e75b6&style=flat" alt="lihibenshimol" /> </p>
 
-- 🔭 I’m currently working on [a cosmetic shop and booking platform](https://github.com/lihibenshimol/Mbeauty)
+ 🔭 I’m currently working on [a cosmetic shop and booking platform](https://github.com/lihibenshimol/Mbeauty)
 
-- 🎓 Proficient in **building single-page apps**
+ 🎓 Proficient in **building single-page apps**
 
-- 💻 My latest project was a Trello inspired project-management app [Trellofy](https://trellofy.onrender.com/board/63d7d6b0dd9fff2d4cbd4b77)
+ 💻 My latest project was a Trello inspired project-management app [Trellofy](https://trellofy.onrender.com/board/63d7d6b0dd9fff2d4cbd4b77)
 
-- 💬 Ask me about **react, nodeJs**
+ 💬 Ask me about **react, nodeJs**
 
-- 📫 How to reach me **lihibs26@gmail.com**
+ 📫 How to reach me **lihibs26@gmail.com**
 
-- ⚡ **A people's person and a tech lover. Autodidact, skilled in handling stressful situations, ambitious, high work ethic and a team player!**
+ ⚡ **A people's person and a tech lover. Autodidact, skilled in handling stressful situations, ambitious, high work ethic and a team player!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
